@@ -6,7 +6,7 @@ This project is to classify 1500 satellite images based on the presence of solar
 
 **Data**
 
-<img src="./data_img.png" width="360" >
+<img src="./data_img.png" width="500" >
 
 
 **Methods**
